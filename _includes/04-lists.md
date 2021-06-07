@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. ***Pancake House***
+2. *BBQ selter*
+3. ~~Noodle noodele~~
